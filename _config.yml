@@ -5,7 +5,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   Proactive problem solver with excellent communication abilities and a Bachelor's degree in Computer Science. Also a highly analytical individual with strong apt for learning and collaborative skills.
   <br><br>
+
   <a href="https://www.linkedin.com/in/rchriskoka/">View My LinkedIn Profile</a> 
   
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal ####
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
