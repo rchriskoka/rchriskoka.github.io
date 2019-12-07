@@ -1,13 +1,14 @@
 ---
-title: "About"
+title: "About Me"
 permalink: /about/
 header:
   image: "/images/zakim.jpg"
 ---
 
-I'm a Junior Data Scientist with experience in data processing, exploratory analysis, data visualizations and machine learning fundamentals.
+A proactive problem solver with excellent communication abilities and a Bachelor's degree in Computer Science. Highly analytical individual with strong apt for learning and collaborative skills. 
 
-I also have experience in Python and PHP, SQL and NoSQL databases and other technologies like Google Data Studio, Amazon Web Services, IBM Watson and Flask framework.
+A Junior Data Scientist with experience in Data Processing, Exploratory Analysis, Visualizations and Machine Learning Fundamentals.
+
 
 
 
