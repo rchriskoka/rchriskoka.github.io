@@ -1,19 +1,23 @@
-## Portfolio
+## Data Science & Engineering Projects
 
 ---
 
-### Category Name 1 
+### Data Engineering: 
 
-[Project 1 Title](/sample_page)
+[Downloading, Reading and Filtering Data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Batch Processing For ***Data Mining***](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Basic ***ETL*** Pipeline](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Scraping Real Estates Listings From Meqasa](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
