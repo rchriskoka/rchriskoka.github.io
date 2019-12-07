@@ -1,18 +1,24 @@
 ---
 title: "Data Engineering Projects"
-date: 2018-01-28
+date: 2019-12-07
 tags: [ETL Pipeline, Batch Processing, Stream Processing]
 header:
-  image: "/images/perceptron/percept.jpg"
+  image: "/images/back.jpeg"
 excerpt: "Data Engineering"
 mathjax: "true"
 ---
 
-# H1 Heading
+# Overview of Projects
 
-## H2 Heading
+### Project 1: Downloading, Reading and Filtering Data
 
-### H3 Heading
+### Project 2: Batch Processing For Data Mining
+
+### Project 3: Basic End-To-End Extract Transform Load (ETL) Pipeline
+
+### Project 4: Scraping Real Estates Listings From Meqasa
+
+### Project 5: Streaming Processing From Loop Ghana
 
 Here's some basic text.
 
