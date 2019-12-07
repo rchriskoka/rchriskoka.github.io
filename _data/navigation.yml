@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "My Portfolio"
-    url: /portfolio/
+    url: /perceptron/
   # - title: "About"
   #   url: https://github.com/rchriskoka/Data-Engineering-Blossom
   # - title: "Sample Posts"
