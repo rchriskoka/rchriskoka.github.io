@@ -16,14 +16,14 @@ page_sections:
     button_text: Reach Me
 - template: hero-banner-w-image
   block: hero-2
-  headline: Hi!, I'm <strong>Richmond Chris-Koka</strong>
+  headline: Hi, I'm <strong>Richmond Chris-Koka</strong>
   content: Result-oriented data engineer with with great communication skills and a background in Pharmacy. I am a highly analytical person with strong apt for learning and collaborative skills, detail oriented and possess the ability to adapt quickly in the fast-paced tech sapce. Looking to apply my knowledge in data engineering extensively to solve problems pertaining to data infrastructure.
   cta:
     enabled: true
     url: https://github.com/rchriskoka
     button_text: 'See on GitHub '
   image:
-    image: <img src="uploads/2019/12/06/selikem11.jpeg">
+    image: <img src="uploads/2019/12/06/selikem11.JPEG">
     alt_text: ''
   background_image: https://maxnimble.com/portfolio-images/hero-2-bg.png
 - template: 1-column-text
