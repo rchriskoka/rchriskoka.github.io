@@ -1,10 +1,10 @@
-title: Richmond Chris-Koka ## your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Richmond Chris-Koka # your name (or website title) here
+logo: "/images/selikem11.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   Junior Data Scientist | Data Engineer | Machine Learning Software Engineer | Python Programmer | Researcher 
+  Junior Data Scientist | Data Engineer | Machine Learning Software Engineer | Python Programmer | Researcher 
   <br><br>
-  Proactive problem solver with excellent communication abilities and a Bachelor's degree in Computer Science with expertise in Data Analytics (Visualizations), Data Science, Artificial Intelligence, Computational Mathematics, Databases and Research Methods. Also a highly analytical individual with strong apt for learning and collaborative skills. Looking to apply extensive data scientist experience in a fast-paced and dynamic firm to create data collection models that generate insights.
- <br><br>
+  Proactive problem solver with excellent communication abilities and a Bachelor's degree in Computer Science with expertise in Data Visualization, Data Science, Artificial Intelligence, Computational Mathematics, Databases and Research Methods. Also a highly analytical individual with strong apt for learning and collaborative skills. Looking to apply extensive data scientist experience in a fast-paced and dynamic firm to create data collection models that generate insights
+  <br><br>
   <a href="https://www.linkedin.com/in/rchriskoka/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
