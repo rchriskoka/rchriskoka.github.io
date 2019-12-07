@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data EngineeringPortfolio"
-    url: /data-wrangling/
+  - title: "My Portfolio"
+    url: /portfolio/
   # - title: "About"
   #   url: https://github.com/rchriskoka/Data-Engineering-Blossom
   # - title: "Sample Posts"
@@ -11,4 +11,4 @@ main:
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: /sitemap/git
