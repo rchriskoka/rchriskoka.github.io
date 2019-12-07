@@ -1,12 +1,15 @@
-title: Richmond Chris-Koka # your name (or website title) here
-logo: "/images/selikem11.jpeg?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  Junior Data Scientist | Data Engineer | Python Programmer | Researcher 
-  <br><br>
-  Proactive problem solver with excellent communication abilities and a Bachelor's degree in Computer Science. Also a highly analytical individual with strong apt for learning and collaborative skills.
-  <br><br>
-
-  <a href="https://www.linkedin.com/in/rchriskoka/">View My LinkedIn Profile</a> 
-  
-theme: jekyll-theme-minimal ####
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+---
+title: Data Science & Engineering Portfolio
+author: Richmond Chris-Koka
+email: rchriskoka@gmail.com
+description: Result-oriented data engineer with with great communication skills and a background in Pharmacy. I am a highly analytical person with strong apt for learning and collaborative skills, detail oriented and possess the ability to adapt quickly in the fast-paced tech sapce. Looking to apply my knowledge in data engineering extensively to solve problems pertaining to data infrastructure.
+baseurl: "/ubuild-jekyll"
+url: ''
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
+plugins:
+- jekyll-feed
+- jekyll-menus
