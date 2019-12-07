@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Data Wrangling Projects"
+  - title: "Data EngineeringPortfolio"
     url: /data-wrangling/
   # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  #   url: https://github.com/rchriskoka/Data-Engineering-Blossom
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
