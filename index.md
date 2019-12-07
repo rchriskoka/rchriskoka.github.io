@@ -26,7 +26,7 @@ page_sections:
     url: https://github.com/Elvis2131
     button_text: 'See on GitHub '
   image: 
-  	image: <img src = "/uploads/2019/12/06" >
+  	image: <img src = "/uploads/2019/12/06/profile-img.PNG" >
     alt_text: ''
   background_image: https://maxnimble.com/portfolio-images/hero-2-bg.png
 - template: 1-column-text
