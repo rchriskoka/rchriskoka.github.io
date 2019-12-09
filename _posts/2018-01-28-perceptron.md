@@ -8,7 +8,7 @@ excerpt: "Ever heard of the saying by Gordon Lindsay Gleg, 'A scientist can disc
 mathjax: "true"
 ---
 
-#Introduction - What is Data Engineering? 
+# Introduction - What is Data Engineering? 
 Ever heard of the saying by Gordon Lindsay Gleg, 'A scientist can discover a new star, but he cannot make one. He would have to ask an engineer to do it for him'. 
 It follows from the title that data engineering is associated with data, namely their **delivery, storage and processing** respectively. Thus, the main task of engineers is to provide reliable infrastructure for data. The core of the data engineer is  **Collect, Move & Store, Data Preparation.** 
 The projects demonstrated in my portofolio seeks to help build my path into a successful data engineer. 
